@@ -173,9 +173,9 @@ export default function App() {
             }}
           >
             <div className="header-logo">
-              <img src="/favicon.svg" alt="Math Visualizer" />
+              <img src="/favicon.svg" alt="CineMath" />
             </div>
-            <h1>Math Visualizer</h1>
+            <h1>CineMath</h1>
           </button>
         </div>
         <span className="header-tag">3D · Parametric · Euler</span>
